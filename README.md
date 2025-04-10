@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Genesis Ojeda
-=======
-# Génesis Ojeda 
->>>>>>> 6c4406848218f736c10112922170150cee8a4d8f
 
 # COMP 2052 - Server-Side Web Development and Back-End Microservices
 
